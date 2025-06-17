@@ -1,0 +1,6 @@
+creating git bash
+creating repository
+>git clone
+>git status
+>git 
+*how to add project to git bash
