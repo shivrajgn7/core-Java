@@ -1,2 +1,0 @@
-write 30 project:
-write description about product about 10 points;
